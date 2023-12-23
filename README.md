@@ -5,3 +5,4 @@ Dataset Structure:
 - kidney Cancer- kidney normal, kidney tumor
 - lung cancer- lung aca(lung Adenocarcinoma) , lung bnt(lung benign tissue)
 - colon cancer - colon aca(colon Adenocarcinoma) , colon bnt(colon benign tissue)
+DATASET LINK:https://www.kaggle.com/datasets/obulisainaren/multi-cancer
